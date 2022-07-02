@@ -212,7 +212,9 @@ header {
   font-style: normal;
   font-weight: 300;
 }
-
+.sidebar-navigation .logo-img {
+  width: 110px;
+}
 .sidebar-navigation nav {
   position: relative;
   top: 60%;
@@ -962,6 +964,7 @@ header {
   }
 
 }
+
 
 
 @media (max-width: 767px) {
